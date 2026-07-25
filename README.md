@@ -21,7 +21,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black) &nbsp;
 ![FastMCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000.svg?style=for-the-badge&logo=Model-Context-Protocol&logoColor=white) &nbsp;
 
-### Side Project
+### Blockchain Side Project
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric--brightgreen?style=social)
 
 
