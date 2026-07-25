@@ -17,7 +17,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)  &nbsp;
 
-### Model Context Protocol & LLM
+## Model Context Protocol & LLM
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black) &nbsp;
 ![FastMCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000.svg?style=for-the-badge&logo=Model-Context-Protocol&logoColor=white) &nbsp;
 
