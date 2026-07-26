@@ -1,5 +1,8 @@
-### Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
-
+### 
+```python
+def Born (in)
+ the Cloud Era ☁️, Developing in the Agentic Era 🫆.
+```
 ---
 
 # Cloud
