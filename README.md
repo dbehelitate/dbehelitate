@@ -27,5 +27,8 @@
 
 
 
-### LinkedIn: https://www.linkedin.com/in/ivan-bonalumi-bergamo/
+
+
+
+LinkedIn: https://www.linkedin.com/in/ivan-bonalumi-bergamo/
 
