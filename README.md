@@ -1,5 +1,4 @@
-### 
-Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
+### Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
 
 ---
 
@@ -30,11 +29,12 @@ Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
 
 # #Add me!
 ```python
-def add_me(a, b):
-    return a + b
-risultato = add_me(follow,linkedin)
-print(+1 follower) 
+def add_me(click_sul_link, nuovo_click=1):
+    return click_sul_link + nuovo_click
+
+risultato = add_me(99)  # Mancava un solo click
+print(f"Target raggiunto! 🎉 Click totali: {risultato}")  # Output: 100
 
 ```
-## https://www.linkedin.com/in/ivan-bonalumi-bergamo/
+ https://www.linkedin.com/in/ivan-bonalumi-bergamo/
 
