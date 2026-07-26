@@ -2,7 +2,7 @@
 ```python
 def Born (in)
  the Cloud Era ☁️, Developing in the Agentic Era 🫆.
-```
+
 ---
 
 # Cloud
@@ -32,4 +32,4 @@ def Born (in)
 
 # Add me!
 https://www.linkedin.com/in/ivan-bonalumi-bergamo/
-
+```
