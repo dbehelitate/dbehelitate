@@ -27,13 +27,13 @@
 
 
 
-# #Add me!
+#Add me!
 ```python
 def add_me(click_sul_link, nuovo_click=1):
     return click_sul_link + nuovo_click
 
-risultato = add_me(99)  # Mancava un solo click
-print(f"Target raggiunto! 🎉 Click totali: {risultato}")  # Output: 100
+risultato = add_me()  
+print(f"Target raggiunto! 🎉 Click totali: {risultato}")  
 
 ```
  https://www.linkedin.com/in/ivan-bonalumi-bergamo/
