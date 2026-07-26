@@ -1,7 +1,6 @@
 ### 
-```python
 Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
-```
+
 ---
 
 # Cloud
@@ -28,7 +27,14 @@ Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric--brightgreen?style=social)
 
 
-```javascript
-# Add me!
-https://www.linkedin.com/in/ivan-bonalumi-bergamo/
+
+# #Add me!
+```python
+def add_me(a, b):
+    return a + b
+risultato = add_me(follow,linkedin)
+print(+1 follower) 
+
 ```
+## https://www.linkedin.com/in/ivan-bonalumi-bergamo/
+
