@@ -1,7 +1,6 @@
 ### 
 ```python
-def Born (in)
- the Cloud Era ☁️, Developing in the Agentic Era 🫆.
+Born in the Cloud Era ☁️, Developing in the Agentic Era 🫆.
 ```
 ---
 
