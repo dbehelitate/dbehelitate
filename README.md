@@ -1,3 +1,5 @@
+
+
 # Ivan BonalumI
 
       
@@ -36,7 +38,7 @@ Web &nbsp;
   
 LLM  &nbsp;  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)  &nbsp;
-<img width="120" height="29" alt="logo" src="https://github.com/user-attachments/assets/c573eaa4-5a32-425a-a6e4-28c437274b58" /> &nbsp;
+<img width="120" height="29" alt="logo" src="https://github.com/user-attachments/assets/8eaa917a-6440-4a6c-9402-8b532c07962a" /> &nbsp;
 <a href="https://killercoda.com/dbehelitate/scenario/kserve">
   <picture>
     <!-- Dark Mode: Sfondo perfettamente abbinato a GitHub (#0d1117) -->
@@ -55,8 +57,11 @@ AgenticML   &nbsp;
 <a href="https://www.kali.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-white?style=for-the-badge&logo=kalilinux&logoColor=black&logoSize=auto"><img alt="Kali Linux" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=kalilinux&logoColor=white"></picture></a>&nbsp;
 
 
+  
 ---
 <a href="https://www.linkedin.com/in/ivan-bonalumi-bergamo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=apachespark&logoColor=0865ec"></a>&nbsp;
 <a href="https://killercoda.com/dbehelitate/scenario/kserve"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=white"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KILLERCODA-white?style=for-the-badge&logo=dassaultsystemes&logoColor=black"><img alt="killercoda" src="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=white"></picture></a>
-   
+
+
+
 
