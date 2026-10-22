@@ -1,13 +1,14 @@
 
 
-# Ivan BonalumI
+
+<h1>Ivan BonalumI</h1>
 
       
-Infra &nbsp;  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) &nbsp;
-![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)&nbsp;
-![kserve](https://img.shields.io/badge/KServe-555cdf?style=for-the-badge&logo=cloudinary&logoColor=white&logoSize=auto) &nbsp;
-![ARGO](https://img.shields.io/badge/argo%20-white?style=for-the-badge&logo=argo) &nbsp;
+Infra &nbsp;<br>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" /> &nbsp;
+<img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white" alt="Helm" />&nbsp;
+<img src="https://img.shields.io/badge/KServe-555cdf?style=for-the-badge&logo=cloudinary&logoColor=white&logoSize=auto" alt="kserve" /> &nbsp;
+<img src="https://img.shields.io/badge/argo%20-white?style=for-the-badge&logo=argo" alt="ARGO" /> &nbsp;
 <a href="https://killercoda.com/skkillercoda/scenario/infracost-terraform-tutorial">
   <picture>
     <!-- Se il sistema è in Dark Mode: Badge Nero -->
@@ -20,10 +21,10 @@ Infra &nbsp;
 </a>
 
 
-Web &nbsp;  
-![express](https://img.shields.io/badge/express-red?style=for-the-badge&logo=express&logoColor=white&logoSize=auto) &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) &nbsp;
-![FastMCP](https://img.shields.io/badge/fastMCP-white?style=for-the-badge&logo=anthropic&logoColor=black) &nbsp;
+Web &nbsp;<br>
+<img src="https://img.shields.io/badge/express-red?style=for-the-badge&logo=express&logoColor=white&logoSize=auto" alt="express" /> &nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" /> &nbsp;
+<img src="https://img.shields.io/badge/fastMCP-white?style=for-the-badge&logo=anthropic&logoColor=black" alt="FastMCP" /> &nbsp;
 <a href="https://killercoda.com/dbehelitate/scenario/kserve">
   <picture>
     <!-- Se il sistema è in Dark Mode: Badge Nero -->
@@ -36,8 +37,8 @@ Web &nbsp;
 </a>
 
   
-LLM  &nbsp;  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)  &nbsp;
+LLM  &nbsp;<br>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white" alt="Google Colab" />  &nbsp;
 <img width="120" height="29" alt="logo" src="https://github.com/user-attachments/assets/8eaa917a-6440-4a6c-9402-8b532c07962a" /> &nbsp;
 <a href="https://killercoda.com/dbehelitate/scenario/kserve">
   <picture>
@@ -51,16 +52,21 @@ LLM  &nbsp;
 </a>
 
 
-AgenticML   &nbsp;  
-![FLYTE](https://img.shields.io/badge/FLYTE%202-9201ff?style=for-the-badge&logo=linuxfoundation) &nbsp;
-![ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black)  &nbsp;
-<a href="https://www.kali.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-white?style=for-the-badge&logo=kalilinux&logoColor=black&logoSize=auto"><img alt="Kali Linux" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=kalilinux&logoColor=white"></picture></a>&nbsp;
+AgenticML   &nbsp;<br>
+<img src="https://img.shields.io/badge/FLYTE%202-9201ff?style=for-the-badge&logo=linuxfoundation" alt="FLYTE" /> &nbsp;
+<img src="https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black" alt="ollama" />  &nbsp;
+<a href="https://www.kali.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-white?style=for-the-badge&logo=kalilinux&logoColor=black&logoSize=auto"><img alt="Kali Linux" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=kalilinux&logoColor=white"></picture></a>
 
 
   
----
+<hr>
 <a href="https://www.linkedin.com/in/ivan-bonalumi-bergamo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=apachespark&logoColor=0865ec"></a>&nbsp;
-<a href="https://killercoda.com/dbehelitate/scenario/kserve"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=white"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KILLERCODA-white?style=for-the-badge&logo=dassaultsystemes&logoColor=black"><img alt="killercoda" src="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=white"></picture></a>
+<a href="https://killercoda.com/dbehelitate/scenario/kserve"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassa"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KILLERCODA-white?style=for-the-badge&logo=dassa"><img alt="Killercoda" src="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassa"></picture></a>
+
+
+
+
+
 
 
 
