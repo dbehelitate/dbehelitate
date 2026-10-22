@@ -61,10 +61,7 @@ AgenticML   &nbsp;<br>
   
 <hr>
 <a href="https://www.linkedin.com/in/ivan-bonalumi-bergamo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=apachespark&logoColor=0865ec"></a>&nbsp;
-<a href="https://killercoda.com/dbehelitate/scenario/kserve"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassa"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KILLERCODA-white?style=for-the-badge&logo=dassa"><img alt="Killercoda" src="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassa"></picture></a>
-
-
-
+<a href="https://killercoda.com/dbehelitate/scenario/kserve"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=white"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KILLERCODA-white?style=for-the-badge&logo=dassaultsystemes&logoColor=black"><img alt="killercoda" src="https://img.shields.io/badge/KILLERCODA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=white"></picture></a>
 
 
 
