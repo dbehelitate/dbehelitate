@@ -39,7 +39,7 @@ Web &nbsp;<br>
   
 LLM  &nbsp;<br>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white" alt="Google Colab" />  &nbsp;
-<img width="120" height="29" alt="logo" src="https://github.com/user-attachments/assets/8eaa917a-6440-4a6c-9402-8b532c07962a" /> &nbsp;
+<img src="https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black" alt="ollama" />  &nbsp;
 <a href="https://killercoda.com/dbehelitate/scenario/kserve">
   <picture>
     <!-- Dark Mode: Sfondo perfettamente abbinato a GitHub (#0d1117) -->
@@ -54,7 +54,7 @@ LLM  &nbsp;<br>
 
 AgenticML   &nbsp;<br>
 <img src="https://img.shields.io/badge/FLYTE%202-9201ff?style=for-the-badge&logo=linuxfoundation" alt="FLYTE" /> &nbsp;
-<img src="https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black" alt="ollama" />  &nbsp;
+<img width="120" height="29" alt="logo" src="https://github.com/user-attachments/assets/8eaa917a-6440-4a6c-9402-8b532c07962a" /> &nbsp;
 <a href="https://www.kali.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-white?style=for-the-badge&logo=kalilinux&logoColor=black&logoSize=auto"><img alt="Kali Linux" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=kalilinux&logoColor=white"></picture></a>
 
 
